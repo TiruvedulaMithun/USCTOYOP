@@ -1,0 +1,9 @@
+How to run YOP automator.
+
+1. Put the csv of accounts you wanna change in the "C:\Users\TicketSeller\Desktop\YOPProject" folder on the desktop as data.csv. you can see a sample of it in the file C:\Users\TicketSeller\Desktop\YOPProject\sample.csv
+2. Run the TrES and open the customer > entry > induvidual window
+3. Run the exe C:\Users\TicketSeller\Desktop\YOPProject\RunME.exe and put both the TrES and RunME windows side by side
+4. Click in the RunMe Window black space and hit enter/follow instructions
+5. For each run the program will ask you for confirmation by pressing enter, please monitor the changes closely and ensure the data is correct
+
+
